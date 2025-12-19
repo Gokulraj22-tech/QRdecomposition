@@ -47,6 +47,7 @@ print("The R Matrix is\n",R)
 
 ## Output
 ```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e304c10a-3555-416e-977c-384bb9480b45" />
 
 ```
 
