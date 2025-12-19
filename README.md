@@ -43,12 +43,6 @@ Q,R=qr_decomposition(A)
 print("The Q Matrix is\n",Q)
 print("The R Matrix is\n",R)
 
-
-
-
-
-
-
 ```
 
 ## Output
